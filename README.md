@@ -13,10 +13,11 @@ It's a winner picker which helps to get a random winner from a contest.
 
 #### Unhappy Path
 
-- [ ] Contestants() -> handle error
+- [x] Contestants() -> handle error
 
-### Interface implementation
+### Instagram Contest
 
+- [ ] Automatic token grabber
 - [ ] Instagram contest
 
 ### UI
